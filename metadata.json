@@ -1,0 +1,8 @@
+{
+  "name": "AI-Based Study Planner and Performance Analyzer",
+  "description": "Personalized study planner, academic performance tracker, and machine learning performance analyzer for students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
